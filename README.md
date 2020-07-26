@@ -1,4 +1,4 @@
-# websitebloc
+# websiteblock
 This is the python code to  block a website
 step1:import time 
 
